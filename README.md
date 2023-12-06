@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development,cloud,AI/ML,web development,
 - 🌱 Completed MCA(Maters of computer Application)
 - 💞️ I’m looking to collaborate on many activities
-- 📫 How to reach me Shubhamvishwakarma579@gmail.com
+- 📫 How to reach me Shubhamvishwakarma7620@gmail.com
 
 <!---
 Svkiller/Svkiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
